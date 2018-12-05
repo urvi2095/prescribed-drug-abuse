@@ -4,7 +4,7 @@
 - Technologies used: Java, Swing, Db4O
 
 ## To Run: 
-- Open the project in Netbeans IDE and hit Run
+- Open the project in Netbeans IDE and Run
 
 ## Demo: 
 - https://youtu.be/-ae43BnwEKU
